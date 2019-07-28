@@ -1,7 +1,7 @@
 //Code By Milad Hatam - MiladHatam@gmail.com
 const itemsNumber = 100;
 var itemCounter = itemsNumber;
-var rowSwitch = false;
+var rowSwitch = false; //Even and odd rows ( Numbers are counting zigzag)
 var row = 0;
 var col = 0;
 var aDoc = app.activeDocument;
